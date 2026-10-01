@@ -1,0 +1,12 @@
+name: RealTime
+version: '1.1'
+main: org.titago.RealTime
+api-version: '1.21'
+authors: [AMapeKiberT]
+description: A plugin to sync Minecraft time with real-world time per world.
+website: https://github.com/amapekibert/RealTime
+folia-supported: true
+permissions:
+  realtime.admin:
+    description: Allows configuring and reloading the plugin
+    default: op

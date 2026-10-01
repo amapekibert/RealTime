@@ -1,1 +1,1 @@
-rootProject.name = "RealTimeFolia"
+rootProject.name = "RealTime"

@@ -1,7 +1,10 @@
 worlds:
   exampleworld1:
     timezone: Europe/Kyiv
+    auto-timezone: false
   exampleworld2:
     timezone: UTC
+    auto-timezone: false
   exampleworld3:
     timezone: GMT-5
+    auto-timezone: false
